@@ -34,4 +34,11 @@ This section presents only brief description / list of the filters contained in 
 ![Only_Modyfing](imgs/only-modyfing.JPG)
 
 
+## Acknowledgment
+
+I would like to state, that couple of these filters come from a package compiled by **Lenny Zeltser** as presented in his article:
+
+[Process Monitor Filters for Malware Analysis and Forensics](https://zeltser.com/process-monitor-filters-for-malware-analysis/)
+
+
 *Enjoy.*
