@@ -25,10 +25,10 @@ Finally, having them loaded, you'll have to select them in order to get them loa
 This section presents only brief description / list of the filters contained in repository. There are files like:
 
 * `Agressive_Noise_Reduction.PMF` - containing a lot of entries with load of noisy entries being exclued:
-[Agressive_Noise_Reduction](imgs/agressive.jpg)
+![Agressive_Noise_Reduction](imgs/agressive.jpg)
 
 * `Only_Modifying.PMF` - with only few entries specifying implicitely to include only modifying (writing file, deleting file, altering registry keys) events in the events list:
-[Only_Modyfing](imgs/only-modyfing.JPG)
+![Only_Modyfing](imgs/only-modyfing.JPG)
 
 
 *Enjoy.*
