@@ -12,10 +12,10 @@ Please feel free to use, and contribute.
 ## How to use them?
 
 Firstly, launch Procmon, then from *Filter* menu select *Organize filters...* as shown in the picture below:
-[Organize Filters](imgs/1.jpg)
+![Organize Filters](imgs/1.jpg)
 
 Then, go for importing the file:
-[Import filters](imgs/2.jpg)
+![Import filters](imgs/2.jpg)
 
 Finally, having them loaded, you'll have to select them in order to get them loaded by selecting from *Filter* menu the *Load Filter* item.
 
