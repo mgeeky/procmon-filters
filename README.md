@@ -12,10 +12,10 @@ Please feel free to use, and contribute.
 ## How to use them?
 
 Firstly, launch Procmon, then from *Filter* menu select *Organize filters...* as shown in the picture below:
-![Organize Filters](imgs/1.jpg)
+![Organize Filters](imgs/1.JPG)
 
 Then, go for importing the file:
-![Import filters](imgs/2.jpg)
+![Import filters](imgs/2.JPG)
 
 Finally, having them loaded, you'll have to select them in order to get them loaded by selecting from *Filter* menu the *Load Filter* item.
 
@@ -25,7 +25,7 @@ Finally, having them loaded, you'll have to select them in order to get them loa
 This section presents only brief description / list of the filters contained in repository. There are files like:
 
 * `Agressive_Noise_Reduction.PMF` - containing a lot of entries with load of noisy entries being exclued:
-![Agressive_Noise_Reduction](imgs/agressive.jpg)
+![Agressive_Noise_Reduction](imgs/agressive.JPG)
 
 * `Only_Modifying.PMF` - with only few entries specifying implicitely to include only modifying (writing file, deleting file, altering registry keys) events in the events list:
 ![Only_Modyfing](imgs/only-modyfing.JPG)
