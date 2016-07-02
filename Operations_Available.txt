@@ -1,0 +1,72 @@
+CloseFile
+CreateFile
+CreateFileMapping
+DeviceIoControl
+FileSystemControl
+FlushBuffersFile
+IRP_MJ_CLOSE
+Load Image
+LockFile
+NotifyChangeDirectory
+Process Create
+Process Exit
+Process Profiling
+Process Start
+QueryAllInformationFile
+QueryAttributeInformationVolume
+QueryAttributeTagFile
+QueryBasicInformationFile
+QueryDeviceRelations
+QueryDirectory
+QueryEAFile
+QueryFileInternalInformationFile
+QueryFullSizeInformationVolume
+QueryInformationVolume
+QueryNameInformationFile
+QueryNetworkOpenInformationFile
+QueryNormalizedNameInformationFile
+QueryObjectIdInformationVolume
+QueryOpen
+QueryPositionInformationFile
+QueryRemoteProtocolInformation
+QuerySecurityFile
+QuerySizeInformationVolume
+QueryStandardInformationFile
+QueryStreamInformationFile
+ReadFile
+RegCloseKey
+RegCreateKey
+RegDeleteKey
+RegDeleteValue
+RegEnumKey
+RegEnumValue
+RegLoadKey
+RegOpenKey
+RegQueryKey
+RegQueryKeySecurity
+RegQueryMultipleValueKey
+RegQueryValue
+RegSetInfoKey
+RegSetKeySecurity
+RegSetValue
+SetAllocationInformationFile
+SetBasicInformationFile
+SetDispositionInformationFile
+SetEndOfFileInformationFile
+SetPositionInformationFile
+SetRenameInformationFile
+SetSecurityFile
+TCP Accept
+TCP Connect
+TCP Disconnect
+TCP Receive
+TCP Reconnect
+TCP Retransmit
+TCP Send
+TCP TCPCopy
+Thread Create
+Thread Exit
+UDP Receive
+UDP Send
+UnlockFileSingle
+WriteFile
